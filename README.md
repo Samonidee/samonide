@@ -18,14 +18,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/samonide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="samonide" height="30" width="40" /></a>
-<a href="https://dev.to/montachirsajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="montachirsajid" height="30" width="40" /></a>
+<a href="https://dev.to/samonide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="montachirsajid" height="30" width="40" /></a>
 <a href="https://twitter.com/thesamonide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesamonide" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sajidmontachir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajidmontachir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emamulmontachir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajidmontachir" height="30" width="40" /></a>
 <a href="https://codesandbox.com/samonide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="samonide" height="30" width="40" /></a>
 <a href="https://fb.com/samonide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samonide" height="30" width="40" /></a>
 <a href="https://instagram.com/samonide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samonide" height="30" width="40" /></a>
 <a href="https://dribbble.com/samonide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="samonide" height="30" width="40" /></a>
-<a href="https://medium.com/@samonide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samonide" height="30" width="40" /></a>
+<a href="https://medium.com/@thesamonide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samonide" height="30" width="40" /></a>
 </p>
 
 
