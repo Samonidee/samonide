@@ -1,13 +1,19 @@
-<!-- welcome message -->
-<h2>Hello, This is Sajid. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sajid!</h1>
+<h3 align="center">A curious developer from Bangladesh</h3>
 
 ###
 
 ## I am a Tech Lover 😍😍
 
-- 📙 I am currently commited to complete #100DaysOf Code
-- 🌱 I'm currently Learning JavaScript
-- 🎯 2022 Goals: JavaScript, React, NextJS, Vue & Python
+- 🔭 I’m currently working on [100DaysOfCode](https://github.com/Samonide/100DaysOfCode)
+
+- 🌱 I’m currently learning **JavaScript, React & NextJS**
+
+- 👨‍💻 All of my projects are available at [sajidmontachir.codes](sajidmontachir.codes)
+
+- 💬 Ask me about **JavaScript!**
+
+- 📫 How to reach me **itzsamonide@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
