@@ -32,6 +32,8 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/></code>
 
 
+## My Stats:
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samonide&show_icons=true&theme=gotham&title_color=3cb480&locale=en" alt="samonide" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samonide&show_icons=true&theme=gotham&title_color=3cb480&locale=en&layout=compact" alt="samonide" /></p> <br>
