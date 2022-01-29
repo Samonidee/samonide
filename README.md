@@ -36,4 +36,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samonide&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="samonide" /></p> <br>
 
 
-<p>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samonide)</p> <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samonide&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
