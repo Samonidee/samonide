@@ -42,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samonide&show_icons=true&theme=gotham&title_color=3cb480&locale=en&layout=compact" alt="samonide" /></p> <br>
 
-##Support:
+## Support:
 <p><a href="https://www.buymeacoffee.com/thesamonide"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thesamonide" /></a></p><br><br>
 
