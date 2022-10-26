@@ -5,13 +5,13 @@
 
 ## I am a Tech Lover 😍😍
 
-- 🔭 I’m currently working on [100DaysOfCode](https://github.com/Samonide/100DaysOfCode)
+- 🔭 I’m currently working on [LIFE -.-](#)
 
-- 🌱 I’m currently learning **JavaScript, React & NextJS**
+- 🌱 I’m currently learning **C, React & NextJS**
 
 - 👨‍💻 All of my projects are available at [sajidmontachir.codes](sajidmontachir.codes)
 
-- 💬 Ask me about **JavaScript!**
+- 💬 Ask me about **JavaScript & LINUX**
 
 - 📫 How to reach me **itzsamonide@gmail.com**
 
